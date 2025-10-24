@@ -1,7 +1,3 @@
 index added
-<<<<<<< HEAD
 frontend here
-=======
-frontend
-importantcode
->>>>>>> 063490ba68c9439b7bd3cbde8ac500e11dbfc7ce
+trial here
