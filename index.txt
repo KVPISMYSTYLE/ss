@@ -1,5 +1,17 @@
 index added
+<<<<<<< Updated upstream
 frontend
 importantcode
 here
 no importabt so much
+=======
+
+frontend here
+trial here
+
+
+importantcode
+here
+not om imp
+
+>>>>>>> Stashed changes
