@@ -1,3 +1,9 @@
 index added
+<<<<<<< HEAD
 frontend here
 trial here
+=======
+frontend
+importantcode
+here
+>>>>>>> 64e4033fba551c7e17f06709ca9b7fff06450d7e
