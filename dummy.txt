@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kvpp fine in class
+=======
+kvpp is here with me
+>>>>>>> bb76f467290b3fb6e1e5f83ccee3ec203cadc304
